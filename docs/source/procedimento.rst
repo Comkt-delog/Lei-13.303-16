@@ -20,8 +20,8 @@ Passo 3: Na área de trabalho do usuário Governo, clique em “Novo Divulgaçã
 
 Passo 4: E em seguida clique em “+Criar” (Tela 04)
 
-Passo 5: Preencha todas as informações relacionadas ao processo e clique em “Concluir” (Tela 05)
+Passo 5: Preencha todas as informações relacionadas ao processo e clique em “Concluir” (Tela 05) OBS.: O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
 
 .. warning::
 
-   TESTE TESTECCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+   OBS.: O número de controle interno da UASG tem por objetivo permitir que cada órgão tenha seu controle de processos, registrado no sistema para melhor rastreabilidade. O preenchimento desse número é facultativo.
