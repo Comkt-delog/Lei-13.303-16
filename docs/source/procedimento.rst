@@ -9,7 +9,7 @@ PRIMEIRA ETAPA: CRIAR A CONTRATAÇÃO
 
 Passo 1: Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao Sistema”.
 
-.. figure:: ../../_static/img/Acesso_ao_sistema.png
+.. figure:: _static/img/Acesso_ao_sistema.png
    :width: 80%
    :align: center
    :alt: Tela de login no sistema Compras.gov.br
