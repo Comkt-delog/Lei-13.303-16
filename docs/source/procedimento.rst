@@ -12,7 +12,7 @@ Passo 1: Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao 
 .. figure:: _static/img/Acesso_ao_sistema.png
    :width: 100%
    :align: center
-   :alt: Tela de login no sistema Compras.gov.br
+   :alt: Tela inicial do Portal de Compras do Governo Federal
 
 Passo 2: Escolha o perfil Governo e clique em “Entrar com Gov.br”. (Tela 02)
 
