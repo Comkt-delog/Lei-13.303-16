@@ -6,8 +6,8 @@ build-backend = "flit_core.buildapi"
  
 [project]
 
-name = "Manual de Teste"
+name = "Manual Lei 13.303/16 (COMKT)"
 
-authors = [{name = "Teste", email = "teste@teste.gov.br"}]
+authors = [{name = "Teste", email = "comkt.delog@gestao.gov.br"}]
 
 dynamic = ["version", "description"]
