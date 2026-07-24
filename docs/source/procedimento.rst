@@ -7,7 +7,12 @@ PROCEDIMENTOS PARA REALIZAÇÃO DE LICITAÇÕES ELETRÔNICAS TRADICIONAIS
 PRIMEIRA ETAPA: CRIAR A CONTRATAÇÃO
 -----------------------------------
 
-Passo 1: Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao Sistema”. (Tela 01)
+Passo 1: Acesse o Portal de Compras do Governo Federal e clique em “Acesso ao Sistema”.
+
+.. figure:: ../../_static/img/Acesso_ao_sistema.png
+   :width: 80%
+   :align: center
+   :alt: Tela de login no sistema Compras.gov.br
 
 Passo 2: Escolha o perfil Governo e clique em “Entrar com Gov.br”. (Tela 02)
 
